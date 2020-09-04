@@ -12,7 +12,7 @@
     "iso": "^4.1.0",
     "object-assign": "^3.0.0",
     "page": "^1.6.3",
-    "react": "^0.13.3"
+    "react": "^0.14.0"
   },
   "devDependencies": {
     "babel": "^5.5.5",
